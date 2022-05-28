@@ -9,8 +9,8 @@ Project Setup
 
 Dependency 
 
-* Node.js
-* Cypress
+* Node.js v16.15.0
+* Cypress v9.07
 
 Install Modules
 Go to the project's root folder & run the following command:
