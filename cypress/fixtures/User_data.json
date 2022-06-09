@@ -1,0 +1,29 @@
+{
+    "data" : [
+        {
+            "firstName": "John",
+            "lastName": "Trier",
+            "email": "kikivo7756@about27.com",
+            "age": "36",
+            "telephone": "077-876-876",
+            "address": "234 bronte",
+           "zip code": "12345",
+            "city": "London",
+            "Province": "ON",
+            "country": "Canada",
+            "password": "pass123"
+        }
+      ],
+
+      "fakeData" : [
+        {
+            "email": "kikivo7756@about27.com",
+            "fakeEmail": "passtofail@about27.com",
+            "password": "pass123",
+            "fakePassword": "pass123"
+        }
+    ]  
+}
+
+
+
